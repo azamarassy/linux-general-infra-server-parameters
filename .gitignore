@@ -1,0 +1,9 @@
+*.pem
+*.key
+inventory.ini
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.tfvars.json
+.pre-commit-config.yaml
